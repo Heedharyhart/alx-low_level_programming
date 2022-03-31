@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * wildcmp - comares two strings and returns 1 if the strings
