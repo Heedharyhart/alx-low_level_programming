@@ -1,1 +1,1 @@
-# dynamic library
+# Dynamic linking
